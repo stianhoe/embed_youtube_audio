@@ -1,4 +1,5 @@
 # embed_youtube_audio
+```javascript
  <div data-video="VIDEO_ID"
          data-autoplay="0"
          data-loop="1"
@@ -6,3 +7,4 @@
   </div>
   <script src="https://www.youtube.com/iframe_api"></script>
   <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
+  ```
